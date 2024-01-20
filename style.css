@@ -1,0 +1,17 @@
+*{
+    font-style: oblique;
+    text-align: center;
+}
+*{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-size: xxx-large;
+}
+p{
+    color: white;
+    font-style: normal;
+    font-size: x-large;
+}
